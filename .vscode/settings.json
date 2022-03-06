@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "corecrt.h": "c",
+        "_mingw.h": "c",
+        "_mingw_mac.h": "c"
+    }
+}

@@ -1,0 +1,163 @@
+// Ekrana yazdırma komutu
+printf("Yazı");
+
+// printf'te satır atlama
+printf("Yazı\n");
+//veya
+printf("Yazı");
+printf("\n\n");
+printf("Yazı 2");
+
+
+// Değişken char
+char kitapadi[20]="Risale-i Nur";
+char kitapyazari[20]="Bediuzzaman";
+
+printf("********\n");
+printf("Kitap Adi= %s\n",kitapadi);
+printf("Kitap Yazari= %s\n",kitapyazari);
+
+
+// Kullanıcı girdisi
+        char kitapyazari[10];
+
+	printf("Kitabin yazari: ");
+	scanf("%s",kitapyazari);
+        printf("Yazarın adı %s",kitabinyazari);
+
+
+// Sayı girişi ve hesap
+
+int alan,uzunluk,cevre;
+	
+	printf("**** Alan ve Cevre Hesabi ****");
+	printf("\n\n");
+	printf("Bir uzunluk gir: ");
+	scanf("%d",&uzunluk);
+	
+	alan=uzunluk*uzunluk;
+	cevre=uzunluk*4;
+	
+	printf("Alan= %d\nCevre= %d",alan,cevre);
+
+// Sayı girişi ve hesap FLOAT
+#include <stdio.h>
+
+int main() {
+
+float x,y,top;
+printf("Gir: ");
+scanf("%f",&x);
+printf("Gir 2: ");
+scanf("%f",&y);
+top=x+y;
+
+printf("\nTop= %f",top);
+
+return 0;
+}
+
+
+
+// Kullanıcı Şifresi
+
+#include <stdio.h>
+#include <string.h>
+
+int main() {
+    char password[10];
+    printf("Sifren: ");
+    scanf("%s", password);
+
+    if (strcmp(password, "aaa")== 0)
+    {
+        printf("dogru \n");
+    }
+    else
+    {
+        printf("yanlis");
+    }
+    return 0;
+}
+
+
+// İf else alternatifi
+#include <ctype.h>
+
+switch (islem) {
+    case 'topla':
+        printf("%d",top);
+        break;
+
+    case 'cikar' :
+        printf("%d",cik);   
+        break;
+
+    default :
+    printf("Error");
+    }
+
+// Türkçe karakter
+#include <locale.h>
+int main(){
+int maas,zam,zamli;
+setlocale(LC_ALL, "Turkish");
+
+
+
+
+// Shell del
+
+ Remove-Item 'dosyayolu' -Force -Recurse
+
+// Math.h
+double= %lf
+sqrt(x)= sayinin karekokü
+pow(sayi,us)=uslu sayi
+floor(12.4)=12
+ceil(12.4)=13
+fabs(x)=Mutlak deger
+log ve log10(x)= logartima
+
+///
+gets(kitapyazari);
+---> birden fazla kelime girdisi
+puts(kitapyazari);
+---> printf alternatifi
+
+//
+strlen(x)= uzunluk
+strcpy(değiştirilecek,alınacakdeğer) kopyalama
+strcat(değiştirilecek,alınacakdeğer) ekleme
+
+///
+// enum sabiti
+
+enum secenekler
+{
+    bos,girisyap,cik,ayarlar
+};
+
+int main()
+enum secenekler sec;
+
+///
+
+// Struct
+struct veriler
+{
+	int yas;
+	char isim[10];
+};
+
+///
+// typedef
+
+typedef int d0
+
+int main altı>
+
+d0 d1;
+d1=10;
+
+// pointer

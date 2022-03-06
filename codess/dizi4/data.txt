@@ -1,0 +1,8 @@
+
+Sayi 1: 10
+Sayi 2: 20
+Sayi 3: 30
+Sayi 4: 40
+Sayi 5: 50
+Sayi 6: 60
+Sayi 7: 70

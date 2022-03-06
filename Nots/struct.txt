@@ -1,0 +1,26 @@
+// Struct
+struct veriler
+{
+	int yas;
+	char isim[10];
+};
+
+///
+int main()
+{
+    struct veriler veri;
+    printf("Adini gir:\n>>> ");
+    scanf("%s",&veri.adi);
+    printf("Sinifini gir:\n>>> ");
+    scanf("%d",&veri.sinifi);
+    printf("Yasini gir:\n>>> ");
+    scanf("%d",&veri.yas);
+    printf("Şehrini gir:\n>>> ");
+    scanf("%s",&veri.sehir);
+    
+    printf("\n\nAd: %s\n",veri.adi);
+    printf("Sinif: %d\n",veri.sinifi);
+    printf("Yas: %d\n",veri.yas);
+    printf("Sehir: %s",veri.sehir);
+    return 0;
+}

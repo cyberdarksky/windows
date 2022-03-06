@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main() {
+
+	
+	printf("******** Programming ***********\n");
+	
+	fwrite(1, "Kanka" ,3);
+
+	printf("\n\n**********************\n");
+	return 0;
+}
+

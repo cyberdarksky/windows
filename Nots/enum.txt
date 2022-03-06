@@ -1,0 +1,11 @@
+// enum sabiti
+
+enum secenekler
+{
+    bos,girisyap,cik,ayarlar
+};
+
+int main()
+enum secenekler sec;
+
+///

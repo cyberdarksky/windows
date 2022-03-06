@@ -1,0 +1,2 @@
+cat file.txt 
+>>> Dosya içeriğini görme

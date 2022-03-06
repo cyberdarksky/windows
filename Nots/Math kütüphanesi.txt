@@ -1,0 +1,8 @@
+// Math.h
+double= %lf
+sqrt(x)= sayinin karekokü
+pow(sayi,us)=uslu sayi
+floor(12.4)=12
+ceil(12.4)=13
+fabs(x)=Mutlak deger
+log ve log10(x)= logartima

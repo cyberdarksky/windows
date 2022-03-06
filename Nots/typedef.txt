@@ -1,0 +1,8 @@
+/ typedef
+
+typedef int d0
+
+int main altı>
+
+d0 d1;
+d1=10;

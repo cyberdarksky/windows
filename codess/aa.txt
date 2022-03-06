@@ -1,0 +1,13 @@
+Not 1:10
+Not 2:20
+Ortalama: 15.000000Not 1:22
+Not 2:22
+Not 3:33
+Ortalama: 25.000000Not 1:12
+Not 2:12
+Not 3:33
+Ortalama: 19.000000Not 1:10
+Not 2:20
+Ortalama: 15.000000Not 1:20
+Not 2:30
+Ortalama: 25.000000

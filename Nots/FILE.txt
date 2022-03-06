@@ -1,0 +1,9 @@
+    FILE *dosya;
+    dosya = fopen("login.txt", "w");
+    fprintf(dosya, "%s\n%s", user, pass);
+    fclose(dosya);
+
+fgets(karakter,15,dosya)
+puts(karakter)
+
+15= alıncak karakter sayısı

@@ -1,0 +1,11 @@
+bellek adresini görüntüleme;
+printf("%x",&değişken);
+
+----------------
+
+    int sayi=10;
+    int *s=&sayi;
+    printf("%x\n",&sayi);
+    printf("%x",s);
+
+--------------------

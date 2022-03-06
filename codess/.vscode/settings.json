@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "unistd.h": "c",
+        "matematik.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "cmath": "c",
+        "*.tcc": "c"
+    }
+}

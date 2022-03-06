@@ -1,0 +1,3 @@
+strlen(x)= uzunluk
+strcpy(değiştirilecek,alınacakdeğer) kopyalama
+strcat(değiştirilecek,alınacakdeğer) ekleme

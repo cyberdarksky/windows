@@ -1,0 +1,4 @@
+gets(kitapyazari);
+---> birden fazla kelime girdisi
+puts(kitapyazari);
+---> printf alternatifi

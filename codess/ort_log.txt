@@ -1,0 +1,4 @@
+Not 1:90
+Not 2:80
+Not 3:80
+Ortalama: 83.000000

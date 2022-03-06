@@ -1,0 +1,17 @@
+#define puan 10
+int main()
+{
+
+printf("%d",puan+5);
+
+}
+
+---------------
+
+#define Maksimum(s1,s2) (s1>s2) ? s1 : s2
+int main()
+{
+
+printf("%d",Maksimum(20,2));
+
+}

@@ -1,0 +1,17 @@
+stdio.h için;
+
+(conio.h olmasa uyarı verir ama yine de çalışır)
+
+#include <conio.h> 
+
+    printf("\nPress any key...");
+    getch();
+	return 0;
+
+------------------
+
+stlib.h için;
+
+	system("pause");
+	return 0;
+---------------------------
